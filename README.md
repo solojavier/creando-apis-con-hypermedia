@@ -9,7 +9,7 @@ Esta presentacion ha sido creada utilizacion [Parade](https://github.com/burtlo/
     git clone https://github.com/solojavier/creando-apis-con-hypermedia.git
     cd creando-apis-con-hypermedia
     gem install parade
-    parade server
+    parade presentation
 
 ## Participa / Colabora
 
