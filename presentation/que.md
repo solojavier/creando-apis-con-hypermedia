@@ -28,6 +28,8 @@
 
 * Hypermedia as the engine of application state
 
+.notes La mayoria de las applicaciones "REST" no cumplen esta reestriccion.
+
 !SLIDE smbullets incremental transition=turnUp
 
 # HATEOAS

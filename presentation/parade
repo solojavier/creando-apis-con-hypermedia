@@ -1,5 +1,4 @@
 title "Creando API's con Hypermedia"
-description "by @solojavier"
 
 theme "hack"
 
@@ -8,4 +7,8 @@ section "Intro" do
   slides "que.md"
   slides "demo.md"
   slides "porque.md"
+  slides "como.md"
+  slides "ejemplos.md"
+  slides "herramientas.md"
+  slides "recursos.md"
 end
